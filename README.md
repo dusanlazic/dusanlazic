@@ -12,7 +12,7 @@
 - 🎓 Working on multiple school projects.
 
 ### 📫 Reach me
-- [LinkedIn](www.linkedin.com/in/dušan-lazić)
+- [LinkedIn](https://www.linkedin.com/in/dušan-lazić)
 - lazicdusan1104 at gmail dot com
 
 ### Some tech I have worked with 🛠️
