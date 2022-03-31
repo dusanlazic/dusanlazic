@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, Dušan Lazić here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello world, Dušan here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 🙋‍♂️ I am ...
 - 🎓 Studying **Software Engineering and Information Technologies** at the **Faculty of Technical Sciences**  in Novi Sad, Serbia.
