@@ -8,8 +8,7 @@
 
 ### 🌱 What's up?
 - 🏆 Preparing for the final phase of **Serbian Cybersecurity Challenge 2022**!
-- 📰 Finishing my personal website and blog using **Flask** and **Bulma**, stay tuned! 😉
-- 🎓 Working on multiple school projects.
+- 📰 Finishing my personal website and blog using **Jekyll** and **Bulma**, stay tuned! 😉
 
 ### 📫 Reach me
 - [LinkedIn](https://www.linkedin.com/in/dušan-lazić)
