@@ -1,27 +1,12 @@
 <h1 align="center">Hello world, Dušan here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 🙋‍♂️ I am ...
-- 🎓 Studying **Software Engineering and Information Technologies** at the **Faculty of Technical Sciences**  in Novi Sad, Serbia.
-- 🛡️ Interested in **cybersecurity**!
-- 📚 Seeking knowledge in secure development, web app security, cryptography, computer networks, operating systems, and more.
-- 🎷 In love with [80s music](https://www.youtube.com/watch?v=uxX2gA18grk)!
+My name is Dušan. I am a final year **Software Engineering and Information Technologies** student at the **Faculty of Technical Sciences, University of Novi Sad**.
+
+I am learning cybersecurity, backend development and DevOps, but I also seek knowledge in many different areas in IT. Shell scripting, task automation, CI/CD and making things work are some of the things I do. CTFs are one of my favourite ways of learning.
+
+Also, I am in love with [80s music](https://youtu.be/CdqoNKCCt7A). 🎷
 
 ### 📫 Reach me
 - [lazicdusan.com](https://lazicdusan.com)
 - [LinkedIn](https://www.linkedin.com/in/lazic-dusan/)
 - lazicdusan1104 at gmail dot com
-
-<!--
-**dusanlazic/dusanlazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
