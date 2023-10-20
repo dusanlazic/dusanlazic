@@ -9,4 +9,4 @@ Also, I am in love with [80s music](https://youtu.be/CdqoNKCCt7A). 🎷
 ### 📫 Reach me
 - [lazicdusan.com](https://lazicdusan.com)
 - [LinkedIn](https://www.linkedin.com/in/lazic-dusan/)
-- lazicdusan1104 at gmail dot com
+- lazicdusan at protonmail dot com
