@@ -2,7 +2,7 @@
 
 My name is Dušan. I am a master's student in **software engineering**, a **DevOps engineer** and a **cybersecurity enthusiast**.
 
-I enjoy playing with Linux, AWS, Terraform, Docker, Kubernetes, CI/CD, and many other tools to keep things running smoothly, secure, and make development easier. Hacking is my sport and I actively engage in CTF competitions — I represented Serbia 🇷🇸 in multiple international cybersecurity competitions, including European Cyber Security Challenge. Currently, I am pursuing Certified Penetration Testing Specialist (CPTS) certification 📚, and building and testing battle-ready tools for ECSC 2024. ⚔️
+I enjoy playing with Linux, AWS, Terraform, Docker, Kubernetes, CI/CD, and many other tools to keep things running smoothly, secure, and make development easier. Hacking is my sport and I actively engage in CTF competitions — I represented Serbia 🇷🇸 in multiple international cybersecurity competitions, including European Cyber Security Challenge. Currently, I am pursuing Certified Penetration Testing Specialist (CPTS) certification 📚, and building and testing battle-ready tools for ECSC 2025. ⚔️
 
 When not hacking, I play the guitar, watch old movies and pretend to be a DJ. Also, I am in love with [80s music](https://youtu.be/CdqoNKCCt7A). 🎷
 
